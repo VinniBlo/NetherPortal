@@ -1,0 +1,6 @@
+
+name: NetherPortal
+version: 1.0
+main: me.netherportal.NetherPortal
+api-version: '26.2'
+description: Create a Nether portal by typing Nether in chat
